@@ -1,0 +1,1 @@
+This is the outline for a program that can generate workout routines from user provided information.
